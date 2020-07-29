@@ -3,7 +3,7 @@ For access database open db/akash_hiddenbrains.sql
 then select all and paste in phpmyadmin to access data for diagram.
 
 open that folder in browser usingf below URL:
-http://localhost/AkashHiddenBrains/src/
+http://localhost/PHP_Line_Chart/src/
 At above URL get Data in garph for id = 1.
 After get another data used ?id then get display for that id data.
 Example:
