@@ -9,7 +9,7 @@ After get another data used ?id then get display for that id data.
 Example:
 
 I get id 10 record then URL is below:
-http://localhost/AkashHiddenBrains/src/?id=10
+http://localhost/PHP_Line_Chart/src/?id=10
 
 If any query then tell me.
 
