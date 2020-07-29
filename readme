@@ -1,0 +1,16 @@
+For access database open db/akash_hiddenbrains.sql
+
+then select all and paste in phpmyadmin to access data for diagram.
+
+open that folder in browser usingf below URL:
+http://localhost/AkashHiddenBrains/src/
+At above URL get Data in garph for id = 1.
+After get another data used ?id then get display for that id data.
+Example:
+
+I get id 10 record then URL is below:
+http://localhost/AkashHiddenBrains/src/?id=10
+
+If any query then tell me.
+
+Thank you.
